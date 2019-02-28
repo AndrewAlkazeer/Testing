@@ -1,0 +1,32 @@
+body {
+  margin: 0px;
+  height: 100%;
+  width: 100%;
+  background-color: brown;
+  transform: translate(-50%, -50%);
+}
+
+h1 {
+  background-color: red;
+  margin: 0px;
+}
+
+h2 {
+  background-color: magenta;
+  margin: 0px;
+}
+
+#imagee {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  left: 50%;
+  top: 50%;
+  transform: translate(50%, 50%);
+}
+
+#containerr {
+  background-color: blue;
+  height: 100%;
+  width: 100%;
+}
